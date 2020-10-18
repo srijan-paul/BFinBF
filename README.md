@@ -19,7 +19,7 @@ and then wrote a brainfuck interpreter in that language. Finally I compiled the 
 
 # Limitations
 
-Under a 1 byte per cell memory tapem It can't run code larger than 256 characters,
+Under a 1 byte per cell memory tape, it can't run code larger than 256 characters,
 however, with slight modification to the [original](https://github.com/srijan-paul/meep/blob/main/test/bfinterpreter.meep)
 code, this is entirely possible, but will slow it down by a lot.
 
